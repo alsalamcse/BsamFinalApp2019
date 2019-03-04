@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "886498972780",
+    "firebase_url": "https://bsamfinalapp2019.firebaseio.com",
+    "project_id": "bsamfinalapp2019",
+    "storage_bucket": "bsamfinalapp2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886498972780:android:60a4d7e1c370c5da",
+        "android_client_info": {
+          "package_name": "com.sh.bsam.bsamfinalapp2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886498972780-kv05ouc5qtahlki6vt8eata8i6bsff77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sh.bsam.bsamfinalapp2019",
+            "certificate_hash": "8d4e87598d212bdb282d05faa7766dc9c486dbdf"
+          }
+        },
+        {
+          "client_id": "886498972780-h00dec6b01pdjm2hmnv12dpncg867e9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANkjmeGhfXdptwrCMEvCI8ebS718xS3X0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886498972780-h00dec6b01pdjm2hmnv12dpncg867e9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
